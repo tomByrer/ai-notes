@@ -30,3 +30,4 @@
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/
 	- Pete Huang's The Neuron https://www.theneurondaily.com/
+	- AI & other tech daily https://tldr.tech/
